@@ -36,3 +36,10 @@ Requirements
 
 Neha Priyadarshini and Dr. Gireesha Mohannath @ BITS Pilani Hyderabad
 
+# Additional files
+
+The repository also contains additionall jupyter notebooks - essentially does the same thing with bits of variations.
+
+Feel free to tweak around.
+
+
